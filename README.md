@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Lab Environment Setup
+# Cybersecurity Lab Environment Setup
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
@@ -19,14 +19,14 @@
 </p>
 
 
-## 📌 Project Overview
+##  Project Overview
 This project marks the beginning of my cybersecurity journey through practical labs and hands-on projects.
 
 During Week 1, I focused on setting up and configuring my virtual lab environment using **Oracle VirtualBox and Kali Linux**.
 
 Having this environment ready gives me a safe space to practice cybersecurity skills, explore networking, experiment with different security tools, and gradually build the practical experience needed for future penetration-testing projects.
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are to:
 
@@ -40,7 +40,7 @@ The main objectives of this project are to:
 * Document the complete lab setup
 * Prepare the environment for future cybersecurity projects
 
-## 🛡️ Purpose of the Lab
+##  Purpose of the Lab
 The main purpose of this lab is to build a safe and controlled environment where I can learn cybersecurity concepts and develop practical, hands-on skills.
 
 I will use this virtual lab for different cybersecurity exercises and projects, including:
@@ -56,10 +56,10 @@ I will use this virtual lab for different cybersecurity exercises and projects, 
 
 This lab will help me improve my technical skills, gain practical experience, and develop the knowledge needed to pursue a career in cybersecurity.
 
-> ⚠️ **Important:**
+>  **Important:**
 > This laboratory is designed for learning, practice, and authorized security testing only. All cybersecurity tools and techniques will be used responsibly and only on systems I own or have received explicit permission to test.
 >
-> ## ⚙️ Lab Configuration
+> ##  Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------  |
